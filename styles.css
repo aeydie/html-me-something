@@ -1,0 +1,27 @@
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 80px;
+  }
+
+  div {
+    padding: 70px;
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+  }
+  
+
+  body {
+    background-color: lightgray;
+  }
